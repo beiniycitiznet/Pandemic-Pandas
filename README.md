@@ -41,6 +41,7 @@ Sample visuals using matplotlib:
 ### Company Quarterly Earnings Report Press Release
 
 Sample visuals using wordcloud:
+<br>
 ![graph1](images/wordcloud_livenation.png)
 
 ## Data Sources
